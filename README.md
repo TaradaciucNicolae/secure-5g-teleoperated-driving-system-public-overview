@@ -1,4 +1,4 @@
-# Secure 5G Teleoperated Driving System — Public Overview
+# Secure 5G Teleoperated Driving System - Public Overview
 
 Public technical overview of a secure 5G teleoperated driving system with biometric access control, encrypted communication channels, controller validation, Raspberry Pi-side secret protection, and fail-safe vehicle behavior.
 
